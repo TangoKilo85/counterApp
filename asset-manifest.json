@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/counterApp/static/css/main.4d3b70ae.css",
+    "main.js": "/counterApp/static/js/main.a9e3ccd9.js",
+    "static/media/countBackGround.jpg": "/counterApp/static/media/countBackGround.278f57a1c2daa030639a.jpg",
+    "index.html": "/counterApp/index.html",
+    "main.4d3b70ae.css.map": "/counterApp/static/css/main.4d3b70ae.css.map",
+    "main.a9e3ccd9.js.map": "/counterApp/static/js/main.a9e3ccd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d3b70ae.css",
+    "static/js/main.a9e3ccd9.js"
+  ]
+}
